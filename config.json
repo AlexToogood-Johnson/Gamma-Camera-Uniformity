@@ -1,0 +1,26 @@
+{
+    "default_file_opening_directory": "C:/Users/Alex Toogood-Johnson/Documents",
+    "default_file_saving_directory": "C:/Users/Alex Toogood-Johnson/Downloads",
+    "colour_theme": "System",
+    "colour": "blue",
+    "convolution": [
+        [
+            1,
+            2,
+            1
+        ],
+        [
+            2,
+            4,
+            2
+        ],
+        [
+            1,
+            2,
+            1
+        ]
+    ],
+    "crop_amount": 40,
+    "fov_radius": 80,
+    "step": 2
+}
