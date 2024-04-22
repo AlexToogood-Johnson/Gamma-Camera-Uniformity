@@ -1,1 +1,8 @@
-
+customtkinter==5.2.1
+darkdetect==0.8.0
+  # via customtkinter
+scipy==1.11.1
+numpy==1.24.3
+  # via scipy
+tkinterdnd2==0.8.0
+pillow==10.0.0
